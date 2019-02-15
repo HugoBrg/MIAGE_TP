@@ -1,0 +1,20 @@
+div.lien { 
+	border: blue thin solid; 
+	float: left; 
+	margin-right:2em; 
+}
+
+div.barrenavigation {
+	height: 1.5em;
+	border: black 1px solid;
+	margin-bottom: 20px;
+}
+
+#here {
+	color : red;
+	font-weight: bold;
+}
+
+#visiteur {
+	float:right;
+}

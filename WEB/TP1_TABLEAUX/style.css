@@ -1,0 +1,90 @@
+table {
+    border-collapse: separate;
+    border-style:none;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#caption {
+	font-weight:bold;
+	caption-side: bottom; 
+}
+
+.bleu {
+	border-style: outset;
+	border-color:#3B618E;
+	border-radius:0.5em;
+	border-width: 2px;
+	background-color:#4F81BD;
+	color:white;
+	box-shadow:1px 1px;
+}
+
+#violet {
+	border-style: outset;
+	border-color:#5E4979;
+	border-radius:0.5em;
+	border-width: 2px;
+	background-color:#8064A2;
+	color:white;
+	box-shadow:1px 1px;
+}
+
+.vert{
+	border-style: outset;
+	border-color:#93B254;
+	border-radius:0.5em;
+	border-width: 2px;
+	background-color:#9BBB59;
+	color:white;
+	box-shadow:1px 1px;
+}
+
+td {
+	vertical-align:middle;
+	height:2.4em;
+	min-width: 10em;
+	text-align: center;
+}
+
+th {
+	vertical-align: top;
+}
+
+.vide {
+	border-top: none;
+	border-right: dashed;
+	border-left: dashed;
+	border-bottom: dashed;
+	border-color: black;
+	border-width: 1px;
+}
+.videl1{
+	border-left: none;
+	border-top : dashed;
+	border-width: 1px;
+}
+
+#videl1c2 {
+	border-left: dashed;
+	border-width: 1px;
+}
+
+.cellInvis {
+	border-style: none;
+}
+
+#duig {
+	opacity: 0.5;
+}
+
+caption {
+	caption-side: bottom;
+}

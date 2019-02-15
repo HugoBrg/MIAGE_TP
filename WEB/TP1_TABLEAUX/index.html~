@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>TP1/TP2</title>
+    <!-- ligne pour l'encodage de la page -->
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+</head>
+<body>
+	<center><p>tableau des études en info à l'UNS</p></center>
+	<table border="1">
+	<tr>
+		<td rowspan="3"></td>
+		<td rowspan="3"><center><b>IUT</b></center></td>
+		<td colspan="2"><b>UFR Sciences</b></td>
+		<td rowspan="3"><b>Polytech Nice Sophia</b></td>
+	</tr>
+	<tr>
+		<td colspan="2"><b>Département Informatique</b></td>
+	</tr>
+	<tr>
+		<td><b>IUP MIAGE</b></td>
+		<td></td>
+	</tr>
+	<!-- fin l1 -->
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<!-- fin l2 -->
+	<tr>
+		<td rowspan="3"><b>BAC +8</b></td>
+		<td></td>
+		<td colspan="3" rowspan="3"><a href="http://edstic.i3s.unice.fr/">Doctorat / ED-STIC</a></td>	
+	</tr>
+	<tr>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+	</tr>
+	<!-- fin l3 -->
+	<tr>
+		<td rowspan="2"><b>BAC +5</b></td>
+		<td></td>
+		<td rowspan="2">Master Miage</td>
+		<td rowspan="2">Master Informatique</td>
+		<td rowspan="3"><a href="http://www.polytechnice.fr/page11.html">Ingénieur Informatique</a></td>
+	</tr>
+	<tr>
+		<td></td> <!-- ce td faudra qu'il change -->
+	</tr>
+	<!-- fin l4 -->
+	<tr>
+		<td rowspan="3"><b>BAC +3</b></td>
+		<td>LPRO</td>
+		<td><a href="http://miageprojet2.unice.fr/Licence_MIAGE_3#Pr.c3.a9sentations_g.c3.a9n.c3.a9rales">parcours MIAGE</a></td>
+		<td rowspan="3">Licence Informatique</td>		
+	</tr>
+	<tr>
+		<td rowspan="2">DUT</td>
+		<td>DU IG</td>	
+		<td rowspan="2">Cycle Préparatoire</td>	
+	</tr>
+	<tr>		
+		<td></td>	
+	</tr>
+	<!-- fin l5 -->
+	<tr>
+		<td></td>	
+		<td colspan="4"><center><b>BAC</b></center></td>
+	</tr>
+	</table>
+</body>
+</html>

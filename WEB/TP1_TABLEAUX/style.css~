@@ -1,0 +1,7 @@
+table {
+    border-collapse: separate;
+}
+
+.center {
+	text-align: center;
+}
